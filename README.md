@@ -2,14 +2,14 @@
 Hi! this is my personal setting i3 to use in my computer. 
 
 
-## Detail
-**Distro** : EndeavourOS
-**Display manager** :  Ly
-**Desktop environment** : i3
-**Shell** : zsh
-**Terminal** : xfce4
-**Polybar** : 3 Monitors - settting for PC 
-**Other** : dunst, feh, rofi, dmenu, font-manager, nvim, visual studio code
+## Detail<br>
+**Distro** : EndeavourOS  
+**Display manager** :  Ly  
+**Desktop environment** : i3  
+**Shell** : zsh  
+**Terminal** : xfce4  
+**Polybar** : 3 Monitors - settting for PC  
+**Other** : dunst, feh, rofi, dmenu, font-manager, nvim, visual studio code  
 
 
 
